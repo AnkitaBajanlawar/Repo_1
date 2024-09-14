@@ -1,3 +1,0 @@
-hello.html
-demo.tmp
-doc.html
